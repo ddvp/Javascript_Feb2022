@@ -1,0 +1,14 @@
+{
+  "name": "proyectofinal_diana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "el_numero_mas_Grande.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
