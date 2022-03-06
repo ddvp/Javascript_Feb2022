@@ -1,0 +1,14 @@
+{
+  "name": "testjasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmin"
+  },
+  "author": "diana",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
